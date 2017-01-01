@@ -3,7 +3,7 @@
 
 # Settings
 SOURCETREE="/home/harry/android/system"
-declare -a DEVICES=( "angler" "falcon" "flounder" "flounder_lte" "huashan" "serranoltexx" )
+declare -a DEVICES=( "angler" "deb" "falcon" "flo" "flounder" "flounder_lte" "huashan" "klte" "serranoltexx" )
 SYNCONSTART=true
 LOGFILEDIR="/home/harry/android/system/logs"
 DELETEAFTERUPLOAD=true
