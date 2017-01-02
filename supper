@@ -91,4 +91,3 @@ export USE_CCACHE=1
 # Tell the user everything is fine
   cowsay -f tux "Yay!"
   echo "Everything looks to have worked. God knows how..."
-
